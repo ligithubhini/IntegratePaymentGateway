@@ -1,2 +1,2 @@
-# IntegratePaymentGateway
-Created a java project on Integrate Payment Gateway
+# payment-gateway-integration
+payment gateway integration java
